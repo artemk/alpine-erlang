@@ -78,7 +78,6 @@ RUN set -xe && \
         --without-cosProperty \
         --without-cosTime \
         --without-cosTransactions \
-        --without-dialyzer \
         --without-et \
         --without-gs \
         --without-ic \
